@@ -1,1 +1,0 @@
-game.Players.LocalPlayer:Kick(" 01ROXHUB TE EXPULSÓ POR MATAR A MI BEBÉ MATI HUB🥺")
